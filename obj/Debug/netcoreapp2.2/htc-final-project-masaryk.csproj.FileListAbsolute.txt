@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\htc-final-project-masaryk\obj\Debug\netcoreapp2.2\htc-final-project-masaryk.csprojAssemblyReference.cache
+C:\Users\User\Desktop\htc-final-project-masaryk\obj\Debug\netcoreapp2.2\htc-final-project-masaryk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\htc-final-project-masaryk\obj\Debug\netcoreapp2.2\htc-final-project-masaryk.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\htc-final-project-masaryk\obj\Debug\netcoreapp2.2\htc-final-project-masaryk.AssemblyInfo.cs
+c:\Users\User\Desktop\htc-final-project-masaryk\bin\Debug\netcoreapp2.2\htc-final-project-masaryk.deps.json
+c:\Users\User\Desktop\htc-final-project-masaryk\bin\Debug\netcoreapp2.2\htc-final-project-masaryk.runtimeconfig.json
+c:\Users\User\Desktop\htc-final-project-masaryk\bin\Debug\netcoreapp2.2\htc-final-project-masaryk.runtimeconfig.dev.json
+c:\Users\User\Desktop\htc-final-project-masaryk\bin\Debug\netcoreapp2.2\htc-final-project-masaryk.dll
+c:\Users\User\Desktop\htc-final-project-masaryk\bin\Debug\netcoreapp2.2\htc-final-project-masaryk.pdb
+c:\Users\User\Desktop\htc-final-project-masaryk\obj\Debug\netcoreapp2.2\htc-final-project-masaryk.dll
+c:\Users\User\Desktop\htc-final-project-masaryk\obj\Debug\netcoreapp2.2\htc-final-project-masaryk.pdb
